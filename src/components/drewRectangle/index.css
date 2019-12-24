@@ -1,0 +1,14 @@
+
+.drew-area-box{
+    position: relative;
+    z-index: 10;
+}
+
+.drew-area-box .drew-area{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    left: 0;
+}
